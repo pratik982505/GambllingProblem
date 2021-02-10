@@ -2,12 +2,12 @@ console.log("Wlcome to Gambling Simulator");
 
 let Stake = 100;
 const bet = 1;
-let totalAmount = 300;
+let totalAmount = 2000;
 let totalStake =0;
 const Wstake =150;
 const Lstake=50;
 let flag = true;
-const DAYS = 3;
+const DAYS = 20;
 let StakeArray = [];
 console.log("The Player has Total : "+"$"+ Stake + "stake");
 
